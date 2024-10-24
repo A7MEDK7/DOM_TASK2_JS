@@ -18,4 +18,4 @@ This project is a dynamically generated product store interface built entirely u
 - CSS (embedded within JS)
 
 ## Preview:
-![Product Store Preview](Project photo .jpg)
+![Product Store Preview](Preview.jpg)
